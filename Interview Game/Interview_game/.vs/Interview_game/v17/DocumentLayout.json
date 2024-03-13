@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|d:\\mydesktop\\mydata\\05.unity project\\interview game\\interview_game\\assets\\scripts\\funcendgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\funcendgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\assets\\scripts\\funccardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\funccardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|d:\\mydesktop\\mydata\\05.unity project\\interview game\\interview_game\\assets\\scripts\\funcfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\funcfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\assets\\scripts\\funclicensing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\funclicensing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\assets\\scripts\\funcshuffle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77633156-1AFB-EB94-E98B-5687543A62C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\funcshuffle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:56:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncLicensing.cs",
+              "DocumentMoniker": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncLicensing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FuncLicensing.cs",
+              "ToolTip": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncLicensing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FuncLicensing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:14:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncShuffle.cs",
+              "DocumentMoniker": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncShuffle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FuncShuffle.cs",
+              "ToolTip": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncShuffle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FuncShuffle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:15:57.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncFight.cs",
+              "DocumentMoniker": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncFight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FuncFight.cs",
+              "ToolTip": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncFight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FuncFight.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:27:12.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncCardManager.cs",
+              "DocumentMoniker": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncCardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FuncCardManager.cs",
+              "ToolTip": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncCardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FuncCardManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:18:06.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncEndGame.cs",
+              "DocumentMoniker": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncEndGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FuncEndGame.cs",
+              "ToolTip": "D:\\MyDesktop\\MyData\\05.Unity Project\\Interview Game\\Interview_game\\Assets\\Scripts\\FuncEndGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FuncEndGame.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T21:51:58.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
